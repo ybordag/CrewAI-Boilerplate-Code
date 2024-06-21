@@ -1,0 +1,11 @@
+FROM llama3
+
+# set parameters
+
+PARAMETER temperature 0.8
+PARAMETER stop Result
+
+# set system prompt to specify chat assistant behavior
+# left blank for now
+
+SYSTEM """"""
